@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Shukla</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <img align = "right" alt = "coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ss9557&label=Profile%20views&color=0e75b6&style=flat" alt="ss9557" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot and Hibernate**
+- 🌱 I’m currently learning **Snowflake,DBT,Databricks**
 
 - 📫 How to reach me **shubhamshukla0807@gmail.com**
 
