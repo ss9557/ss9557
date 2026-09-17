@@ -152,21 +152,17 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=ss9557&show_icons=true&locale=en&layout=compact"
-       alt="ss9557" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ss9557&show_icons=true&hide_border=true"
+       alt="Shubham Shukla GitHub Stats" />
 </p>
 
-<p>
-  &nbsp;
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=ss9557&show_icons=true&locale=en"
-       alt="ss9557" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ss9557&hide_border=true"
+       alt="Shubham Shukla GitHub Streak" />
 </p>
 
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=ss9557"
-       alt="ss9557" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss9557&layout=compact&hide_border=true"
+       alt="Shubham Shukla Top Languages" />
 </p>
